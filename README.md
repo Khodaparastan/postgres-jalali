@@ -1,17 +1,21 @@
 # postgres-jalali
 Docker image of latest postgresdb with jalali utils installed
 
-# built images
+# Built images
 
+```bash
 docker pull khodaparastan/postgres-jalali:latest
+```
+# Architectures supported
 
-# architectures supported
+- linux/amd64
 
-linux/amd64
-linux/arm64
-linux/arm/v7
-linux/arm/v6
+- linux/arm64
+
+- linux/arm/v7
+
+- linux/arm/v6
 
 # Jalali_utils
 
-https://github.com/teamappir/jalali_utils
+[REPOSITORY LINK](https://github.com/teamappir/jalali_utils)
